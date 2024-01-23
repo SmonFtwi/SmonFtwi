@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Smon👋
+### Machine learning Engineer, IT Networking Graduate
 
 
 ## 🌐 Socials:
