@@ -7,7 +7,7 @@ Full-Stack developer
 Recent computer networking graduate with a strong foundation in web development, AI, and machine learning. currently focused on Full-stack web development.
 
 *   🌍  I'm based in United Arab Emirates
-*   🖥️  See my portfolio at [My Potfolio](http://personal-portfolio-client-wine.vercel.app/)
+*   🖥️  See my portfolio at [My Potfolio](https://portfolio-website-five-dun-34.vercel.app/)
 *   ✉️  You can contact me at [smonftwi1@gmail.com](mailto:smonftwi1@gmail.com)
 *   🧠  I'm learning Machine learning model deployment
 *   🤝  I'm open to collaborating on NLP projects 
